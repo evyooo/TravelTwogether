@@ -1,8 +1,5 @@
-# 여행벗    
-<img width="984" alt="Screen Shot 2020-09-07 at 11 52 09 PM" src="https://user-images.githubusercontent.com/54741149/92406859-0cb65e00-f174-11ea-83ed-92ec1b286d9b.png">    
-
-## Overview    
-사용자의 성향에 맞춰 편리하게 사용할 수 있는 여행 준비 어플리케이션    
+# 여행벗  
+> 사용자의 성향에 맞춰 편리하게 사용할 수 있는 여행 준비 어플리케이션    
 * 작업 기간 : 2019.09 - now    
 * 개발 동기 : [Blog Link]    
 * 앱 설치 링크 : [Google Playstore]    
@@ -11,6 +8,9 @@
 [Google Playstore]: https://play.google.com/store/apps/details?id=com.triptwogether.dbn003    
 
     
+<img width="984" alt="Screen Shot 2020-09-07 at 11 52 09 PM" src="https://user-images.githubusercontent.com/54741149/92406859-0cb65e00-f174-11ea-83ed-92ec1b286d9b.png">    
+
+
 ## Team
 
 안드로이드 & 서버 풀스택 개발자, 대표 (me!)     
