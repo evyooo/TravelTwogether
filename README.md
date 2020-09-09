@@ -1,7 +1,7 @@
 # 여행벗  
 > 사용자의 성향에 맞춰 편리하게 사용할 수 있는 여행 준비 어플리케이션    
 * 작업 기간 : 2019.09 - 2020.08      
-* 개발 동기 : [Blog Link]    
+* 상세 설명 : [Blog Link]    
 * 앱 설치 링크 : [Google Playstore]    
  
  [Blog Link]: https://yuuj.tistory.com/110    
